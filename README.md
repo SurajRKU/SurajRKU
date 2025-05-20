@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-ABAP-0073B7?style=for-the-badge&logo=abap&logoColor=white" alt="ABAP"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  
 </p>
 
 #### Frameworks & Libraries
@@ -73,6 +73,7 @@
 #### Other Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/-ServiceNow-0072C6?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow"/>
   <img src="https://img.shields.io/badge/-RESTful_API-000000?style=for-the-badge" alt="REST API"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
